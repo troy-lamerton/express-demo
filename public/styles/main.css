@@ -10,6 +10,11 @@ h1 {
   font-size: 2.5em;
 }
 
+.heading {
+  margin: 5px 0;
+}
+
+/* HOME PAGE */
 .content {
   width: 75%;
   min-height: 200px;
@@ -17,6 +22,14 @@ h1 {
   border: 1px solid black;
   border-radius: 8px;
 }
-.subtitle {
-  margin: 5px 0;
+
+/* BLOG PAGE */
+.blog-post {
+  background-color: whitesmoke;
+  border: 2px solid grey;
+  margin: 16px 0;
+  padding: 4px 12px;
+}
+.blog-title {
+  margin: 10px 0;
 }
